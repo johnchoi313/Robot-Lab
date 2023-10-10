@@ -1,0 +1,185 @@
+RSL_ConvertImageFormats#### CreateWizard Image Format Converter is born!
+PAUSE IMAGE FORMAT CONVERTER
+PAUSE IMAGE FORMAT CONVERTER
+RESUME IMAGE FORMAT CONVERTER
+Radiant Silver Image Format Converter 0.7
+--------------------------------------------------------
+Texture files found in project :594
+these are the ones which are huge images:
+Progress Msg-> 0. Processing .tif (29.93 Meg) char_astrella_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/char_astrella_dff.png
+Conversion saved to Assets/Textures/char_astrella_dff.png
+Progress Msg-> 1. Processing .tif (21.44 Meg) char_astrella_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/char_astrella_nrm.png
+Conversion saved to Assets/Textures/char_astrella_nrm.png
+Progress Msg-> 2. Processing .tif (1.22 Meg) door_pneumatic_kicker_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/door_pneumatic_kicker_dff.png
+Conversion saved to Assets/Textures/door_pneumatic_kicker_dff.png
+Progress Msg-> 3. Processing .tif (5.17 Meg) door_pneumatic_main_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/door_pneumatic_main_dff.png
+Conversion saved to Assets/Textures/door_pneumatic_main_dff.png
+Progress Msg-> 4. Processing .tif (2.22 Meg) door_pneumatic_main_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/door_pneumatic_main_nrm.png
+Conversion saved to Assets/Textures/door_pneumatic_main_nrm.png
+Progress Msg-> 5. Processing .tif (11.82 Meg) prop_batteringRam_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_batteringRam_dff.png
+Conversion saved to Assets/Textures/prop_batteringRam_dff.png
+Progress Msg-> 6. Processing .tif (3.94 Meg) prop_batteringRam_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_batteringRam_nrm.png
+Conversion saved to Assets/Textures/prop_batteringRam_nrm.png
+Progress Msg-> 7. Processing .tif (2.82 Meg) prop_bench02_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_bench02_dff.png
+Conversion saved to Assets/Textures/prop_bench02_dff.png
+Progress Msg-> 8. Processing .tif (1.27 Meg) prop_bench02_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_bench02_nrm.png
+Conversion saved to Assets/Textures/prop_bench02_nrm.png
+Progress Msg-> 9. Processing .tif (5.22 Meg) prop_blastDoor_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_blastDoor_dff.png
+Conversion saved to Assets/Textures/prop_blastDoor_dff.png
+Progress Msg-> 10. Processing .tif (1.02 Meg) prop_blastDoor_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_blastDoor_nrm.png
+Conversion saved to Assets/Textures/prop_blastDoor_nrm.png
+Progress Msg-> 11. Processing .tif (3.29 Meg) prop_ceilingSupport_base_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_ceilingSupport_base_dff.png
+Conversion saved to Assets/Textures/prop_ceilingSupport_base_dff.png
+Progress Msg-> 12. Processing .tif (1.27 Meg) prop_ceilingSupport_base_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_ceilingSupport_base_nrm.png
+Conversion saved to Assets/Textures/prop_ceilingSupport_base_nrm.png
+Progress Msg-> 13. Processing .tif (9.68 Meg) prop_computerStation_A_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_computerStation_A_dff.png
+Conversion saved to Assets/Textures/prop_computerStation_A_dff.png
+Progress Msg-> 14. Processing .tif (3.61 Meg) prop_computerStation_A_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_computerStation_A_nrm.png
+Conversion saved to Assets/Textures/prop_computerStation_A_nrm.png
+Progress Msg-> 15. Processing .tif (4.64 Meg) prop_computerStation_B_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_computerStation_B_dff.png
+Conversion saved to Assets/Textures/prop_computerStation_B_dff.png
+Progress Msg-> 16. Processing .tif (2.21 Meg) prop_computerStation_B_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_computerStation_B_nrm.png
+Conversion saved to Assets/Textures/prop_computerStation_B_nrm.png
+Progress Msg-> 17. Processing .tif (2.75 Meg) prop_computerStation_C_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_computerStation_C_dff.png
+Conversion saved to Assets/Textures/prop_computerStation_C_dff.png
+Progress Msg-> 18. Processing .tif (1.33 Meg) prop_computerStation_C_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_computerStation_C_nrm.png
+Conversion saved to Assets/Textures/prop_computerStation_C_nrm.png
+Progress Msg-> 19. Processing .tif (2.38 Meg) prop_fan_large_aperture_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_fan_large_aperture_dff.png
+Conversion saved to Assets/Textures/prop_fan_large_aperture_dff.png
+Progress Msg-> 20. Processing .tif (2.58 Meg) prop_floorBot_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_floorBot_dff.png
+Conversion saved to Assets/Textures/prop_floorBot_dff.png
+Progress Msg-> 21. Processing .tif (1.33 Meg) prop_floorBot_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_floorBot_nrm.png
+Conversion saved to Assets/Textures/prop_floorBot_nrm.png
+Progress Msg-> 22. Processing .tif (6.36 Meg) prop_hoverPad_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_hoverPad_dff.png
+Conversion saved to Assets/Textures/prop_hoverPad_dff.png
+Progress Msg-> 23. Processing .tif (3.15 Meg) prop_hoverPad_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_hoverPad_nrm.png
+Conversion saved to Assets/Textures/prop_hoverPad_nrm.png
+Progress Msg-> 24. Processing .tif (1.77 Meg) prop_parachuteCrate_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_parachuteCrate_dff.png
+Conversion saved to Assets/Textures/prop_parachuteCrate_dff.png
+Progress Msg-> 25. Processing .tif (1.52 Meg) prop_powerCube_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_powerCube_dff.png
+Conversion saved to Assets/Textures/prop_powerCube_dff.png
+Progress Msg-> 26. Processing .tif (1.49 Meg) prop_retroTelevision_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_retroTelevision_dff.png
+Conversion saved to Assets/Textures/prop_retroTelevision_dff.png
+Progress Msg-> 27. Processing .tif (21.44 Meg) prop_robotArm_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_robotArm_dff.png
+Conversion saved to Assets/Textures/prop_robotArm_dff.png
+Progress Msg-> 28. Processing .tif (11.23 Meg) prop_robotArm_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_robotArm_nrm.png
+Conversion saved to Assets/Textures/prop_robotArm_nrm.png
+Progress Msg-> 29. Processing .tif (3.23 Meg) prop_samoflange_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_samoflange_dff.png
+Conversion saved to Assets/Textures/prop_samoflange_dff.png
+Progress Msg-> 30. Processing .tif (1.43 Meg) prop_samoflange_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_samoflange_nrm.png
+Conversion saved to Assets/Textures/prop_samoflange_nrm.png
+Progress Msg-> 31. Processing .tif (6.45 Meg) prop_seeSaw_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_seeSaw_dff.png
+Conversion saved to Assets/Textures/prop_seeSaw_dff.png
+Progress Msg-> 32. Processing .tif (3.82 Meg) prop_seeSaw_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_seeSaw_nrm.png
+Conversion saved to Assets/Textures/prop_seeSaw_nrm.png
+Progress Msg-> 33. Processing .tif (7.97 Meg) prop_turbine_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_turbine_dff.png
+Conversion saved to Assets/Textures/prop_turbine_dff.png
+Progress Msg-> 34. Processing .tif (4.83 Meg) prop_turbine_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_turbine_nrm.png
+Conversion saved to Assets/Textures/prop_turbine_nrm.png
+Progress Msg-> 35. Processing .tif (1.67 Meg) prop_weight_ton_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/prop_weight_ton_dff.png
+Conversion saved to Assets/Textures/prop_weight_ton_dff.png
+Progress Msg-> 36. Processing .tif (1.53 Meg) tile_fabric_parachute_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_fabric_parachute_dff.png
+Conversion saved to Assets/Textures/tile_fabric_parachute_dff.png
+Progress Msg-> 37. Processing .tif (4.42 Meg) tile_floor_concreteSlabs_01_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_floor_concreteSlabs_01_dff.png
+Conversion saved to Assets/Textures/tile_floor_concreteSlabs_01_dff.png
+Progress Msg-> 38. Processing .tif (1.67 Meg) tile_floor_concreteSlabs_01_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_floor_concreteSlabs_01_nrm.png
+Conversion saved to Assets/Textures/tile_floor_concreteSlabs_01_nrm.png
+Progress Msg-> 39. Processing .tif (4.43 Meg) tile_floor_concreteSmooth_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_floor_concreteSmooth_dff.png
+Conversion saved to Assets/Textures/tile_floor_concreteSmooth_dff.png
+Progress Msg-> 40. Processing .tif (3.54 Meg) tile_floor_rubber_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_floor_rubber_dff.png
+Conversion saved to Assets/Textures/tile_floor_rubber_dff.png
+Progress Msg-> 41. Processing .tif (2.33 Meg) tile_floor_rubber_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_floor_rubber_nrm.png
+Conversion saved to Assets/Textures/tile_floor_rubber_nrm.png
+Progress Msg-> 42. Processing .tif (1.24 Meg) tile_grate_tech_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_grate_tech_dff.png
+Conversion saved to Assets/Textures/tile_grate_tech_dff.png
+Progress Msg-> 43. Processing .tif (1.08 Meg) tile_grate_tech_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_grate_tech_nrm.png
+Conversion saved to Assets/Textures/tile_grate_tech_nrm.png
+Progress Msg-> 44. Processing .tif (4.18 Meg) tile_metal_grey_dark02_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_metal_grey_dark02_dff.png
+Conversion saved to Assets/Textures/tile_metal_grey_dark02_dff.png
+Progress Msg-> 45. Processing .tif (1.07 Meg) tile_metal_grey_dark02_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_metal_grey_dark02_nrm.png
+Conversion saved to Assets/Textures/tile_metal_grey_dark02_nrm.png
+Progress Msg-> 46. Processing .tif (1.12 Meg) tile_metal_light_dirty_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_metal_light_dirty_dff.png
+Conversion saved to Assets/Textures/tile_metal_light_dirty_dff.png
+Progress Msg-> 47. Processing .tif (4.18 Meg) tile_paint_orange_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_paint_orange_dff.png
+Conversion saved to Assets/Textures/tile_paint_orange_dff.png
+Progress Msg-> 48. Processing .tif (1.25 Meg) tile_paint_orange_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_paint_orange_nrm.png
+Conversion saved to Assets/Textures/tile_paint_orange_nrm.png
+Progress Msg-> 49. Processing .tif (1.04 Meg) tile_support_upright_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_support_upright_dff.png
+Conversion saved to Assets/Textures/tile_support_upright_dff.png
+Progress Msg-> 50. Processing .tif (3.94 Meg) tile_wallPanel01_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_wallPanel01_dff.png
+Conversion saved to Assets/Textures/tile_wallPanel01_dff.png
+Progress Msg-> 51. Processing .tif (9.68 Meg) tile_wallPanel01_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_wallPanel01_nrm.png
+Conversion saved to Assets/Textures/tile_wallPanel01_nrm.png
+Progress Msg-> 52. Processing .tif (4.01 Meg) tile_wallPanel02_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_wallPanel02_dff.png
+Conversion saved to Assets/Textures/tile_wallPanel02_dff.png
+Progress Msg-> 53. Processing .tif (7.53 Meg) tile_wallPanel02_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/tile_wallPanel02_nrm.png
+Conversion saved to Assets/Textures/tile_wallPanel02_nrm.png
+Progress Msg-> 54. Processing .tif (2.57 Meg) vehicle_rcFlyer_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/vehicle_rcFlyer_dff.png
+Conversion saved to Assets/Textures/vehicle_rcFlyer_dff.png
+Progress Msg-> 55. Processing .tif (9.91 Meg) vehicle_rcFlyer_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/vehicle_rcFlyer_nrm.png
+Conversion saved to Assets/Textures/vehicle_rcFlyer_nrm.png
+Progress Msg-> 56. Processing .tif (6.39 Meg) vehicle_rcLand_clean_dff.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/vehicle_rcLand_clean_dff.png
+Conversion saved to Assets/Textures/vehicle_rcLand_clean_dff.png
+Progress Msg-> 57. Processing .tif (2.65 Meg) vehicle_rcLand_clean_nrm.tif will become a .png
+Found large .tif, will convert to .png, new file name is Assets/Textures/vehicle_rcLand_clean_nrm.png
+Conversion saved to Assets/Textures/vehicle_rcLand_clean_nrm.png
+Number of large file found 58
+total size of all large files is 277 Megs or 0.27 Gigs.
+Image format conversion stopped, please check your materi
